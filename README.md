@@ -5,7 +5,6 @@
 1. AWS-amplify page: https://aws-amplify.github.io/docs/
 2. iOS SDK for amplify: https://aws-amplify.github.io/docs/ios/start?ref=amplify-iOS-btn
 3. AWS DB link: https://console.aws.amazon.com/appsync/
-4. Download UI project link: https://github.com/loydkim/AWSTest
 
 * Develop environment.
 
